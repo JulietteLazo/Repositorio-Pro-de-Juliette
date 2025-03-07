@@ -1,6 +1,5 @@
 Ejemplo de comentar noseque es la tarea de base de datos jajaaj
-Es una descricpcion
-Siga las instrucciones que se le indiquen.
+ZZZSiga las instrucciones que se le indiquen.
 
 Realice el diagrama de entidad relación del problema descrito más adelante. El diagrama deberá indicar las entidades, sus atributos y la cardinalidad entre las entidades.
 
